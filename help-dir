@@ -1,0 +1,171 @@
+- Displays a list of files and subdirectories in a directory.
+- Specifies drive, directory, and/or files to list.
+
+Syntax
+===================
+DIR [drive:][path][filename] 
+
+[/A[[:]attributes]]		[/O[[:]sortorder]] 		[/T[[:]timefield]] 
+[/B] [/C] [/D] [/L] [/N]	[/P] [/Q] [/R] [/S]		[/W] [/X] [/4]
+
+Commands
+===================
+"-	'NOT' prefix"
+
+/A	Display.
+/AD	Display directory.
+/AH	Display hidden.
+/AS	Display system.
+/AR	Display read-only.
+/AL	Reparse points.
+/AA	Show files ready for archiving.
+/AO	Show files offline.
+/AI	Show files with non-indexed content.
+
+"-	'REVERSE' prefix"
+/O	Sort.
+/ON	Sort by name.
+/OE	Sort by extension.
+/OG	Sort by group directory.
+/OS	Sort by size.
+/OD	Sort by date.
+/T	Control time.
+/TC	Control time created.
+/TA	Control time accessed.
+/TW	Control time written.
+
+Display Modes
+===================
+Screen Control	/P
+Show identity	/Q /X /S /R
+Show minimal	/B /L /-C
+
+dir /Q /X /P /TC /S 
+
+Miscellaneous
+===================
+environment variable		DIRCMD
+override preset switches	(-)		Example: /-w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### What you are looking at.
+---------------------------
+/A		Displays files with specified attributes.
+attributes	D  Directories                R  Read-only files
+		H  Hidden files               A  Files ready for archiving
+		S  System files               I  Not content indexed files
+		L  Reparse Points             O  Offline files
+		-  Prefix meaning not
+
+/B	Uses bare format (no heading information or summary).
+/L	Uses lowercase.
+/C	Display the thousand separator in file sizes.  This is the
+	default.  
+	(Use /-C to disable display of separator.)
+/D	Same as wide but files are list sorted by column.
+
+
+### What it is showing you.
+---------------------------
+/Q	Display the owner of the file.
+/P	Pauses after each screenful of information.
+
+/O		List by files in sorted order.
+sortorder	N  By name (alphabetic)       S  By size (smallest first)
+		E  By extension (alphabetic)  D  By date/time (oldest first)
+		G  Group directories first    -  Prefix to reverse order
+
+/X	This displays the short names generated for non-8dot3 file
+	names.  The format is that of /N with the short name inserted
+	before the long name. If no short name is present, blanks are
+	displayed in its place.
+/S	Displays files in specified directory and all subdirectories.
+/R	Display alternate data streams of the file.
+
+/T		Controls which time field displayed or used for sorting
+timefield	C  Creation
+		A  Last Access
+		W  Last Written
+
+Switches may be preset in the DIRCMD environment variable.  Override
+preset switches by prefixing any switch with - (hyphen)--for example, /-W.
+
+/N          New long list format where filenames are on the far right.
+/W          Uses wide list format.
+/4          Displays four-digit years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.dreamstime.com/miscellaneous-dangerous-goods-symbol-sign-vector-illustration-isolate-white-background-label-eps-miscellaneous-dangerous-goods-image200360573
+https://www.zerodayclothing.com/miscellaneous.php
+https://www.zerodayclothing.com/products/openwall-jtr-crossword-1/openwall-jtr-crossword-1.php
+https://www.pouet.net/prod.php?which=18351
+https://www.ebay.com/itm/325888752388
+
+https://carolinarice.com/cooking/the-versatility-of-making-horchata-with-recipes/
+https://dynamitebaits.com/product/frenzied-naked-tiger-nuts-boosted-hookbaits/
+https://dynamitebaits.com/product/frenzied-black-tiger-nuts-boosted-hookbaits/
+https://www.walmart.com/ip/African-Delights-Whole-Organic-African-Tigernuts-12oz/512272944
+https://www.tienda.com/products/chufa-nuts-nt-11?srsltid=AfmBOoro8gzoVWDs8ZQNGOiNbHJeQevR7LlIF-plgL1GMnrK9t--Jhwi
+
+https://en.wikipedia.org/wiki/Fartons
+https://en.wikipedia.org/wiki/Flour
+https://en.wikipedia.org/wiki/Milk
+https://en.wikipedia.org/wiki/Sugar
+https://en.wikipedia.org/wiki/Oil
+https://en.wikipedia.org/wiki/Egg_(food)
+https://en.wikipedia.org/wiki/Leavening_agent
+https://en.wikipedia.org/wiki/Apocrypha
+https://en.wikipedia.org/wiki/James_I_of_Aragon
+https://en.wikipedia.org/wiki/Iberian_Peninsula
+https://en.wikipedia.org/wiki/Pyrenees
+https://en.wikipedia.org/wiki/Pliny_the_Elder
+https://en.wikipedia.org/wiki/Crown_of_Aragon
+https://en.wikipedia.org/wiki/Knights_Templar
+https://en.wikipedia.org/wiki/Occitania
+https://en.wikipedia.org/wiki/Monarchies_in_Europe
+https://en.wikipedia.org/wiki/Llibre_del_Consolat_de_Mar
+
+https://en.wikipedia.org/wiki/Tuber	
+https://en.wikipedia.org/wiki/Kunu	
+https://share.google/images/kcR50XuPQqq9TIMtp
+https://share.google/images/h9vcTvTivbvB9fQqp
+https://share.google/images/qBPk44DASxgdW83yv
+
+https://en.wikipedia.org/wiki/Asclepias_syriaca		"clonal" weed
+
+https://en.wikipedia.org/wiki/Bootloader
+https://en.wikipedia.org/wiki/MicroPython

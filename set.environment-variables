@@ -1,0 +1,63 @@
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\MURRAYM24\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+
+COMPUTERNAME=29LIBR-LAB-T26
+ComSpec=C:\WINDOWS\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+EFC_15564_1262719628=1
+EFC_15564_1592913036=1
+EFC_15564_2283032206=0
+EFC_15564_2775293581=1
+EFC_15564_3789132940=1
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+
+HOMEDRIVE=C:
+HOMEPATH=\Users\MURRAYM24
+LOCALAPPDATA=C:\Users\MURRAYM24\AppData\Local
+LOGONSERVER=\\29LIBR-LAB-T26
+NUMBER_OF_PROCESSORS=12
+OMP_NUM_THREADS=12
+OneDrive=C:\Users\MURRAYM24\OneDrive
+
+OS=Windows_NT
+Path=
+	C:\WINDOWS\system32;
+	C:\WINDOWS;
+	C:\WINDOWS\System32\Wbem;
+	C:\WINDOWS\System32\WindowsPowerShell\v1.0\;
+	C:\WINDOWS\System32\OpenSSH\;
+	C:\Program Files\dotnet\;
+	c:\Program Files\Common Files\Autodesk Shared\;
+	c:\Program Files\Microsoft SQL Server\150\Tools\Binn\;
+	C:\Users\MURRAYM24\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 151 Stepping 5, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=9705
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+
+PROMPT=$P$G
+PSModulePath=
+	C:\Program Files\WindowsPowerShell\Modules;
+	C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\Users\MURRAY~1\AppData\Local\Temp
+TMP=C:\Users\MURRAY~1\AppData\Local\Temp
+
+USERDNSDOMAIN=intra.ecu.edu
+USERDOMAIN=INTRA
+USERDOMAIN_ROAMINGPROFILE=INTRA
+USERNAME=MURRAYM24
+USERPROFILE=C:\Users\MURRAYM24
+windir=C:\WINDOWS
